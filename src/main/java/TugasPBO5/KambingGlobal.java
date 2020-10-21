@@ -7,7 +7,13 @@ package TugasPBO5;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk mangakses function dari 
+ * class yang sama dan penggunaan variabel global
+ * 
  */
 public class KambingGlobal {
     // Variabel jumlahKambing menjadi variabel instance
