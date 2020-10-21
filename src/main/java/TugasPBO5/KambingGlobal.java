@@ -11,7 +11,7 @@ package TugasPBO5;
  * NAMA     : Andreas Suryadi
  * KELAS    : PBO10K
  * NIM      : 10119918
- * Deskripsi Program : Program ini berisi program untuk mangakses function dari 
+ * Deskripsi Program : Program ini berisi program untuk mengakses function dari 
  * class yang sama dan penggunaan variabel global
  * 
  */
